@@ -1,0 +1,15 @@
+{
+  "main": "server.js",
+  "name": "authStatic",
+  "description": "static server using some passport authentication",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.2.6",
+    "jade": "0.31.1",
+    "passport-github": "~0.1.5",
+    "passport": "~0.1.17",
+    "connect": "~2.7.11",
+    "github": "0.1.8"
+  }
+}
